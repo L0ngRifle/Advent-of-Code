@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "forceConsistentCasingInFileNames": true,        
+        "strict": true,
+        "target": "ES5",
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "outDir": "build",
+    },
+    "files": [
+        "Day1-1.ts",
+    ]
+ }

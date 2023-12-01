@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@stenway/reliabletxt": "^1.1.0",
+    "@stenway/reliabletxt-io": "^1.1.0",
+    "@types/node": "^20.10.1"
+  }
+}
