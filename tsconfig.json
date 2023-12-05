@@ -8,10 +8,13 @@
         "removeComments": true,
         "preserveConstEnums": true,
         "sourceMap": true,
+        "useUnknownInCatchVariables": false,
         "outDir": "build",
     },
     "files": [
         "Day1-1.ts",
         "Day1-2.ts",
+        "Day2-1.ts",
+        "Day2-2.ts",
     ]
  }

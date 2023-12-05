@@ -41,10 +41,9 @@ const firstLast = array.map((line, i)=>{
     console.log("output: ",first, last)
     return +(first + last)
 })  
+console.log(firstLast)
 
 const sum = firstLast.reduce((sum, current) => sum + current)
-
-console.log(firstLast)
 console.log(sum)
 
 
